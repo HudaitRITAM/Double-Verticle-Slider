@@ -6,6 +6,7 @@ in landing page there is to section, left section atached a arrow key,by clickin
 <br>JavaScript
 <br>HTML
 <br>CSS
+<br>cdnjs - Font-awesome
 
 ### Output ###
 ![Alt text](1.png?raw=true "Title")
